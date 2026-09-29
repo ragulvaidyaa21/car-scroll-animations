@@ -151,7 +151,7 @@ export default function Hero() {
         <div className="road">
           <img
             ref={car}
-            src={`${process.env.NODE_ENV === "production" ? "/scroll-animation" : ""}/McLaren 720S 2022 top view.png`}
+            src="/McLaren 720S 2022 top view.png"
             alt="McLaren supercar"
             className="car"
           />

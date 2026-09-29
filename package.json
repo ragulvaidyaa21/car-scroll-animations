@@ -6,8 +6,7 @@
     "dev": "next dev",
     "start": "next start",
     "lint": "eslint",
-    "build": "next build && echo '' > out/.nojekyll",
-    "deploy": "npm run build && gh-pages -d out --dotfiles"
+    "build": "next build"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
@@ -24,7 +23,6 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
-    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
