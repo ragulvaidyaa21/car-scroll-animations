@@ -10,8 +10,8 @@
 
 ## Live Demo & Repository
 
-- **Live Site:** `https://jayeshrajbhar.github.io/scroll-animation`
-- **GitHub Repository:** `https://github.com/JayeshRajbhar/scroll-animation`
+- **Live Site:** `https://car-scroll-animationsss.vercel.app/`
+- **GitHub Repository:** `https://github.com/ragulvaidyaa21/car-scroll-animations`
 
 ---
 
